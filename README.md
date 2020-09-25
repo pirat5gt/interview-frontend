@@ -70,4 +70,4 @@ interface Product {
 ```
 
 ## Макет
-![image](https://www.figma.com/file/llBdQ9L8oIn1oZh2qVmU0F/Catalog)
+https://www.figma.com/file/llBdQ9L8oIn1oZh2qVmU0F/Catalog
